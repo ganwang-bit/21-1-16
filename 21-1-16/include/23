@@ -1,0 +1,16 @@
+#ifndef 23_
+#define 23_
+
+
+class 23
+{
+    public:
+        23();
+        virtual ~23();
+
+    protected:
+
+    private:
+};
+
+#endif // 23_
